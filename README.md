@@ -1,4 +1,6 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Server.
+# IFChat chat application. 
+### Demo-video: https://youtu.be/CxigXRoug1g
+### This is a Kotlin Multiplatform project targeting Android, iOS, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
@@ -15,5 +17,17 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Server.
 * `/shared` is for the code that will be shared between all targets in the project.
   The most important subfolder is `commonMain`. If preferred, you can add code to the platform-specific folders here too.
 
-
+  
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+## Server
+Spring REST API
+#### Running api:
+Run docker compose script to setup database (in directory ./server/provisioning/dev)
+```
+docker-compose --project-name="ifchat" up --detach
+```
+Start springboot project via your IDE, or in ./server directory execute this command: <code>../gradlew bootRun</code>
+
+## Mobile App
+Mobile application with Jetpack Compose
