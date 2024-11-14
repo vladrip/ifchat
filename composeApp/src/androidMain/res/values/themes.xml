@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="Theme.IFChat" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="backgroundTint">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/palette1</item>
+        <item name="colorPrimary">@color/palette1</item>
+        <item name="android:textColorPrimary">@color/palette1</item>
+        <item name="android:textColor">@color/palette4</item>
+        <item name="android:textColorHint">@color/palette4</item>
+        <item name="android:editTextColor">@color/palette4</item>
+
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+        <item name="actionBarPopupTheme">@style/ActionBarPopupMenu</item>
+    </style>
+
+    <style name="Theme.IFChat.Auth" parent="FirebaseUI">
+        <item name="colorPrimary">@color/palette2</item>
+        <item name="colorPrimaryVariant">@color/palette2</item>
+        <item name="colorAccent">@color/palette2_lighter</item>
+        <item name="android:colorBackground">@color/palette1</item>
+        <item name="android:statusBarColor">@color/palette2_darker</item>
+
+        <item name="android:textColorPrimary">@color/palette4</item>
+        <item name="android:textColorTertiary">@color/palette3</item>
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419187675630",
+    "project_id": "ifchat-c934f",
+    "storage_bucket": "ifchat-c934f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419187675630:android:76965533a387a87f7e3eff",
+        "android_client_info": {
+          "package_name": "com.vladrip.ifchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419187675630-tdq8d0cbc5rmpdke95a7la25r9ktr5gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMqofrRaNzslkaTZYP8_JDE5jKKGFmeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419187675630-tdq8d0cbc5rmpdke95a7la25r9ktr5gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

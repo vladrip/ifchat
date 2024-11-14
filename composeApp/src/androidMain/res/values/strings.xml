@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">IFChat</string>
+    <string name="notifications_messages">Messages</string>
+
+    <string name="authentication">Authentication</string>
+    <string name="settings">Settings</string>
+    <string name="saved_messages">Saved Messages</string>
+    <string name="group_members_count">%d members</string>
+    <string name="loading">loading…</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="waiting_for_network">waiting for network…</string>
+    <string name="no_description_provided">No description provided</string>
+
+    <!-- DateTime -->
+    <string name="last_online">last online %s</string>
+    <string name="last_online_at">last online at %s</string>
+    <string name="last_online_recently">last online recently</string>
+    <string name="a_year_ago">a year ago</string>
+    <string name="years_ago">years ago</string>
+    <string name="ago">ago</string>
+
+    <string name="contacts">Contacts</string>
+    <string name="search">Search</string>
+    <string name="mute">Mute</string>
+    <string name="send_message">Send message</string>
+    <string name="message_status">message status</string>
+    <string name="delete">Delete</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_members">Members</string>
+    <string name="description">Description</string>
+    <string name="create_chat">Create chat</string>
+    <string name="unmute">Unmute</string>
+    <string name="new_group">New Group</string>
+    <string name="group_name">Group name</string>
+    <string name="add_members">Add members</string>
+    <string name="logout">Log out</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="phone_number">Phone number</string>
+    <string name="bio">Bio</string>
+    <string name="tag">Tag</string>
+    <string name="name">Name</string>
+    <string name="chat">Chat</string>
+</resources>

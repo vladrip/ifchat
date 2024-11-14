@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="palette1">#192225</color>
+    <color name="palette1_divider">#0C1213</color>
+    <color name="palette2">#194350</color>
+    <color name="palette2_lighter">#24687C</color>
+    <color name="palette2_darker">#023342</color>
+    <color name="palette3">#A5C9CA</color>
+    <color name="palette4">#E7F6F2</color>
+
+    <color name="disabled">#AAAAAA</color>
+</resources>
